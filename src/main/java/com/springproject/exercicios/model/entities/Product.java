@@ -30,9 +30,9 @@ public class Product {
 
   @Min(0)
   @NotNull
-  private double preco;
+  private double price;
 
   @Min(0)
   @Max(1)
-  private double desconto;
+  private double discount;
 }
