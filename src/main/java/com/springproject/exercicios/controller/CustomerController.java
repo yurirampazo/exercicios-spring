@@ -1,6 +1,6 @@
 package com.springproject.exercicios.controller;
 
-import com.springproject.exercicios.model.Customer;
+import com.springproject.exercicios.model.entities.Customer;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.springproject.exercicios.model;
+package com.springproject.exercicios.model.entities;
 
 
 public class Customer {
